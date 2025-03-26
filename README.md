@@ -130,4 +130,4 @@ This AI-powered travel planner helps users create detailed travel plans **instan
 
 🔹 **Project Repository:** [https://github.com/dpavansekhar/AI-Powered-Travel-Planner]
 
-🔹 **Demo:** [Streamlit Hosted Link]  
+🔹 **Demo:** [[Streamlit Hosted Link](https://ai-powered-travel-planner-4ovwedhmtnnguoczingkhz.streamlit.app/)]  
