@@ -64,6 +64,7 @@ streamlit run travel_planner.py
 
 ## 📌 Example Output
 ### User Input:
+```text
 {
   "destination": "Paris",
   "duration": 3,
@@ -71,6 +72,7 @@ streamlit run travel_planner.py
   "purpose": "Leisure",
   "interests": ["History", "Food"]
 }
+```
 
 ### Generated Itinerary Output:
 ```text
