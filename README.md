@@ -128,6 +128,6 @@ This AI-powered travel planner helps users create detailed travel plans **instan
 
 🔹 **Developed by:** Dogga Pavan Sekhar
 
-🔹 **Project Repository:** [https://github.com/dpavansekhar/AI-Powered-Travel-Planner]
+🔹 **Project Repository:** [Github Repo Link](https://github.com/dpavansekhar/AI-Powered-Travel-Planner)
 
-🔹 **Demo:** [[Streamlit Hosted Link](https://ai-powered-travel-planner-4ovwedhmtnnguoczingkhz.streamlit.app/)]  
+🔹 **Demo:** [Streamlit Hosted Link](https://ai-powered-travel-planner-4ovwedhmtnnguoczingkhz.streamlit.app/)
