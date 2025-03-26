@@ -37,9 +37,9 @@ You need an API key from Google AI Studio to use the Gemini model.
 ```
 
 ### 3️⃣ Run the Application
-Save the **`travel_planner.py`** file and run:
+Save the **`AI-Powered Travel Planner.py`** file and run:
 ```bash
-streamlit run travel_planner.py
+streamlit AI-Powered Travel Planner .py
 ```
 
 ### 4️⃣ Enter Your Google API Key
